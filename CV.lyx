@@ -1,0 +1,1114 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass moderncv
+\begin_preamble
+\moderncvtheme[blue]{classic}
+% possible themes are "classic" and "casual"
+% optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+
+% required
+\firstname{Diego\newline{}}
+% required
+\familyname{Reyes Quintana}
+
+% optional, remove the line if not wanted
+\title{Curriculum Vitae}
+
+% optional
+% \address{street and number}{postcode city}
+% '\\' adds a line break
+\address{Debenedetti 1758}{Vicente Lopez 1636\\ Buenos Aires}
+
+% optional
+\phone{+54(11)4799 0887}
+% optional
+\mobile{+54(11)41813425}
+% optional
+%\fax{+43(0)999 7777}
+% optional
+\email{dmrq70@gmail.com}
+% optional
+%\extrainfo{www.lyx.org}
+
+% optional
+% \photo[height]{name}
+% 'height' is the height the picture is resized to
+% 'name' is the name of the picture file
+%\photo[64pt]{CV-image}
+
+% optional
+\quote{"If you're not failing 90\% of the time, you are not aiming high enough." Alan Kay}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Note:
+\series default
+ The personal data like your name, image, address, etc.
+ are set in the document preamble.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+The moderncv class offers lots of customization possibilities; some are
+ explained in the preamble of this document; for more information look at
+ the documentation of the LaTeX-package 
+\series bold
+moderncv
+\series default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+maketitle
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+outputs the title part like the address
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Educación
+\end_layout
+
+\begin_layout Entry
+1990--1996
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Licenciatura en Informática
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Universidad Nacional de La Plata
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+La Plata
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Quinto año incompleto.
+\end_layout
+
+\begin_layout Entry
+1989--1990
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Licenciatura en Física
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Universidad de La Plata
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Buenos Aires
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Primer año completo.
+\end_layout
+
+\begin_layout Entry
+1983--1988
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Perito Mercantil
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+CPEM Nº 3
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Zapala
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Orientación informática.
+\end_layout
+
+\begin_layout Section
+Experiencia
+\end_layout
+
+\begin_layout Entry
+2009--
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newline{}
+\end_layout
+
+\end_inset
+
+actualidad
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+System programmer Unix
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+ BBVA Banco Francés/BBVA Consolidar
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Capital Federal
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Responsable técnico de infraestructura Unix de las empresas.
+\begin_inset Newline newline
+\end_inset
+
+Responsable soporte técnico a las áreas de desarrollo y operativas para
+ ambientes open.
+\begin_inset Newline newline
+\end_inset
+
+Diseño e implementación de infraestructura de virtualización de servidores
+ para sucursales, servidores centrales y escritorios.
+\end_layout
+
+\begin_layout Entry
+2005--2009
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+System programmer Unix
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Grupo BBVA
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Capital Federal
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Responsable técnico de infraestructura de sucursales para el grupo en América.
+\begin_inset Newline newline
+\end_inset
+
+Diseño, desarrollo e implementación de la plataforma de ejecución de sucursales
+ basado en Software Libre; incluyendo los servicios centralizados de seguridad
+ de usuarios, diseño lógico de networking, monitoreo y soporte a desarrollo.
+\begin_inset Newline newline
+\end_inset
+
+Soporte técnico de segundo nivel a las áreas de tecnología del grupo en
+ América 
+\emph on
+(Argentina, Chile, Perú, Colombia, Venezuela, Puerto Rico y México).
+\end_layout
+
+\begin_layout Entry
+1998--2004
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+System programmer Unix
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+ BBVA Banco Francés
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Capital Federal
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Diseño e implementación infraestructura internet de la empresa.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Diseño e implementación seguridad perimetral.
+ Firewalls Checkpoint sobre plataformas Sun/Solaris.
+\begin_inset Newline newline
+\end_inset
+
+Soporte e implementación infraestructura PKI para home banking.
+\begin_inset Newline newline
+\end_inset
+
+Implementación sistemas SWIFT de comercio exterior.
+\begin_inset Newline newline
+\end_inset
+
+Referente interno en temas de tecnología.
+\end_layout
+
+\begin_layout Entry
+1997--1997
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Desarrollador
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Freelance
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+La Plata
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Rediseño y desarrollo de solución de middleware bancario.
+ C++, Python sobre plataformas Linux.
+\end_layout
+
+\begin_layout Entry
+1997--1998
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Analista programador/System programmer Linux
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Banco Los Tilos
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+La Plata
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Diseño, desarrollo e implementación middleware bancario.
+ Monitor de transacciones comunicando las cajas con el servidor central,
+ incluyendo la comunicación con sucursales remotas.
+ C++ sobre plataformas Windows Server.
+\end_layout
+
+\begin_layout Entry
+1996--1997
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Analista programador
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+S&D Software
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Capital Federal
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{}{
+\end_layout
+
+\end_inset
+
+Desarrollo de aplicaciones cliente-servidor para terceros (IBM Argentina,
+ Molinos Río de la Plata, Telefónica de Argentina).
+ C/C++, PL/SQL Oracle sobre plataformas Windows 3.x, OS/2 y AIX.
+\end_layout
+
+\begin_layout Entry
+1993--1996
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Desarrollador
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Freelance
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+La Plata
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{}{
+\end_layout
+
+\end_inset
+
+Desarrollo de aplicaciones de negocio para pyme.
+ C/C++, Pascal, Assembler sobre plataforma DOS
+\end_layout
+
+\begin_layout Section
+Idiomas
+\end_layout
+
+\begin_layout Language
+Inglés
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Escrito fluido
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Language
+Inglés
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Conversación fluido
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Titulo equivalente a First Certificate otorgado por Cultural Inglesa de
+ Argentina
+\end_layout
+
+\begin_layout Section
+Sistemas
+\end_layout
+
+\begin_layout Computer
+OS
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Solaris, AIX, HP/UX, Linux,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+administración
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+WebSphere, Apache, Postfix, Squid, PowerDNS, BIND, LDAP
+\end_layout
+
+\begin_layout Computer
+Programación
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+C/C++, Erlang, Smalltalk, Lisp, Java, Haskell
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+scripting
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Shell, Python, Ruby, 
+\shape slanted
+(me niego a escribir o leer PHP)
+\end_layout
+
+\begin_layout Computer
+Web
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+HTML, Javascript, CSS, AJAX
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+BBDD
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+PostgreSQL, MySQL, Sybase, Oracle, DB2
+\end_layout
+
+\begin_layout Computer
+Seguridad
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Administración de certificados (PKI), g/PGP, PAM, Seos/eTrust
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}{}{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Intereses
+\end_layout
+
+\begin_layout Item
+Historia
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Aunque nunca me desarrollé en el tema me interesa mucho la historia, en
+ especial historia reciente y aún más en relación a las ciencias.
+\end_layout
+
+\begin_layout Item
+Música
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}{
+\end_layout
+
+\end_inset
+
+Me gusta tocar música.
+ Actualmente estoy aprendiendo a tocar el bajo electrico.
+\end_layout
+
+\begin_layout Section
+Objetivo personal
+\end_layout
+
+\begin_layout Standard
+Busco un grupo de trabajo apasionado por lo que hace, un ambiente en el
+ que los desafíos sean la norma y no la excepción, donde lo importante sean
+ las ideas y su buena ejecución antes que la politica.
+\end_layout
+
+\begin_layout Section
+Mi aporte
+\end_layout
+
+\begin_layout CloseSection
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+This ends the section formatting.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Keep entries with green labels empty!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Me desenvuelvo bien bajo presión.
+ Tengo experiencia en ambientes productivos distribuidos tanto con sucursales
+ bancarias como con infraestructura de internet dando soporte al negocio;
+ gestionando grupos de entre diez y veinte personas.
+\end_layout
+
+\begin_layout Standard
+Soy partidario del software libre, la accesibilidad que este proporciona
+ me ha llevado a seguir una metodología de trabajo basada en pruebas de
+ concepto de las que se derivan prototipos funcionales que se evolucionan
+ hasta la solución final.
+ Esta metodología le ha permitido a mis equipos generar e implementar soluciones
+ de bajo costo con control total de las mismas.
+\end_layout
+
+\begin_layout Standard
+En los equipos de los que he formado parte suelo convertirme en referente
+ en temas de tecnología.
+ 
+\end_layout
+
+\begin_layout EmptySection
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Creates a section without a section heading.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout CloseSection
+
+\end_layout
+
+\end_body
+\end_document
